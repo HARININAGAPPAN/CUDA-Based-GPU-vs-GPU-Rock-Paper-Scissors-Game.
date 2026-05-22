@@ -14,6 +14,7 @@ Multi-round game execution
 The game automatically executes several rounds and displays the results after every round.
 
 ## Features
+```
 GPU vs GPU gameplay
 CUDA kernel execution
 Automatic move generation
@@ -21,15 +22,19 @@ Multiple round execution
 Terminal-based output visualization
 Winner determination after every round
 Demonstration of parallel processing concepts
+```
 
 ## Technologies Used
+```
 CUDA Toolkit
 NVIDIA GPU
 C++
 Google Colab / CUDA Environment
 CUDA Runtime API
+```
 
 ## Project Structure
+```
 GPU-RPS-CUDA/
 │
 ├── gpu_rps_game.cu
@@ -37,6 +42,7 @@ GPU-RPS-CUDA/
 ├── output.txt
 ├── execution_log.txt
 └── demo_video_link.txt
+```
 
 ## Program
 ```
